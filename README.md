@@ -1,2 +1,2 @@
 # react-fetch-api
-Fetching API &amp; displaying data in react
+Used fetch API to display data in react
